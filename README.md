@@ -10,3 +10,14 @@
 - Topic modelling using LDA - Latent Dirichlet allocation
 - Sentiment Analysis using Naive Bayes Classifier
 
+### Tools Required
+The general requirements for this project are as follows:
+- tweepy
+- spacy
+- nltk
+- regex
+- numpy
+- pandas
+- matplotlib
+- wordcloud
+- sci-kit learn
