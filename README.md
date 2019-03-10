@@ -1,4 +1,4 @@
-# Text Mining - Topic Modeling and Sentiment Analysis
+# Natural Language Processing - Topic Modeling and Sentiment Analysis
 
 
 ## Contents
