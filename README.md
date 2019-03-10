@@ -3,7 +3,7 @@
 
 ## Contents
 
-- Understand how to connect with Twitter REST Api
+- Understand how to connect with Twitter REST API
 - Search twitter for tweets which contain #demonetization and write data to a csv file
 - Remove Stopwords, Stemmings and visualize frequent words on Wordcloud
 - Feature extraction from text
